@@ -1,0 +1,6 @@
+projectPath: .
+expansionPath: vlocity
+gitCheck: true
+gitCheckKey: vlocity
+autoRetryErrors: true
+queries:

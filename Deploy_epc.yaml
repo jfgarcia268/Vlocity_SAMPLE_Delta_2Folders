@@ -1,0 +1,6 @@
+projectPath: .
+expansionPath: epc
+gitCheck: true
+gitCheckKey: epc
+autoRetryErrors: true
+queries:
